@@ -47,7 +47,7 @@
     "html_before": "",
     "headbody": "",
     "botbody": "",
-    "google-analytics": ""
+    "google-analytics": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n  (adsbygoogle = window.adsbygoogle || []).push({\r\n    google_ad_client: \"ca-pub-3328260587024669\",\r\n    enable_page_level_ads: true\r\n  });\r\n</script>"
   },
   "pages": {
     "index.html": {

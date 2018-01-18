@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lan Ban Kik",
-    "currentPage": "index.html",
+    "currentPage": "LanBanKikTours.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,11 +43,11 @@
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "html_before": "",
     "headbody": "",
     "botbody": "",
-    "google-analytics": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n  (adsbygoogle = window.adsbygoogle || []).push({\r\n    google_ad_client: \"ca-pub-3328260587024669\",\r\n    enable_page_level_ads: true\r\n  });\r\n</script>"
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {

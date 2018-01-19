@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster:400);
 @import url(https://fonts.googleapis.com/css?family=Kaushan+Script:400);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,400i,700);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -43,18 +44,18 @@ body {
   font-size: 2.24rem;
 }
 .display-5 {
-  font-family: 'Kaushan Script', handwriting;
-  font-size: 2rem;
+  font-family: 'Bitter', serif;
+  font-size: 1.6rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 2.56rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -78,9 +79,9 @@ body {
     line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -650,13 +651,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -1824,7 +1825,7 @@ body {
 }
 .cid-qGGbye9I3M {
   padding-top: 30px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #cebfaf;
 }
 .cid-qGGbye9I3M .mbr-section-subtitle {
@@ -1833,22 +1834,34 @@ body {
 .cid-qGGbye9I3M H2 {
   color: #634a4a;
 }
-.cid-qGCQnQ0e58 {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/olen-2.jpg");
-  position: relative;
+.cid-qH5HvR1EXc {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #cebfaf;
 }
-.cid-qGCQnQ0e58 .card {
+.cid-qH5HvR1EXc p {
+  color: #767676;
+}
+.cid-qH5HvR1EXc .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qH5HvR1EXc .accordion-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-qH5HvR1EXc .panel-group {
+  width: 100%;
+}
+.cid-qH5HvR1EXc .card {
   border-radius: 0px;
   margin-bottom: -1px;
 }
-.cid-qGCQnQ0e58 .card .card-header {
+.cid-qH5HvR1EXc .card .card-header {
   border-radius: 0px;
   border: 0px;
   padding: 0;
 }
-.cid-qGCQnQ0e58 .card .card-header a.panel-title {
+.cid-qH5HvR1EXc .card .card-header a.panel-title {
   margin-bottom: 0;
   font-style: normal;
   font-weight: 500;
@@ -1857,33 +1870,47 @@ body {
   margin-top: -1px;
   line-height: normal;
 }
-.cid-qGCQnQ0e58 .card .card-header a.panel-title:focus {
+.cid-qH5HvR1EXc .card .card-header a.panel-title:focus {
   text-decoration: none !important;
 }
-.cid-qGCQnQ0e58 .card .card-header a.panel-title h4 {
+.cid-qH5HvR1EXc .card .card-header a.panel-title h4 {
   padding: 1.3rem 2rem;
   border: 1px solid #dfdfdf;
   margin-bottom: 0;
 }
-.cid-qGCQnQ0e58 .card .card-header a.panel-title h4 .sign {
+.cid-qH5HvR1EXc .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
 }
-.cid-qGCQnQ0e58 .card .panel-body {
-  color: #767676;
+.cid-qH5HvR1EXc .mbr-figure {
+  -webkit-align-self: flex-start;
+  align-self: flex-start;
+  padding-left: 4rem;
+  padding-left: 0;
+  padding-right: 4rem;
 }
-.cid-qGCQnQ0e58 H2 {
-  color: #efefef;
+.cid-qH5HvR1EXc .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
 }
-.cid-qGCQnQ0e58 H4 {
-  color: #232323;
-  text-align: center;
+@media (max-width: 991px) {
+  .cid-qH5HvR1EXc .media-container-row {
+    -webkit-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+  }
+  .cid-qH5HvR1EXc .mbr-figure {
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 2rem;
+    padding-top: 0;
+    padding-bottom: 2rem;
+  }
 }
-.cid-qGCQnQ0e58 .panel-text {
+.cid-qH5HvR1EXc .panel-text {
+  color: #4b351e;
+}
+.cid-qH5HvR1EXc H4 {
   color: #3c2003;
-  text-align: left;
-}
-.cid-qGCQnQ0e58 SPAN {
-  color: #232323;
+  text-align: center;
 }
 .cid-qH4dlats8V {
   padding-top: 60px;
@@ -3463,13 +3490,13 @@ body {
   text-align: left;
 }
 .cid-qG7VGbMRma .navbar {
-  background: #504d4d;
+  background: #767676;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qG7VGbMRma .navbar-dropdown.bg-color.transparent.opened {
-  background: #504d4d;
+  background: #767676;
 }
 .cid-qG7VGbMRma a {
   font-style: normal;
@@ -3553,7 +3580,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qG7VGbMRma .dropdown .dropdown-menu {
-  background: #504d4d;
+  background: #767676;
   display: none;
   position: absolute;
   min-width: 5rem;

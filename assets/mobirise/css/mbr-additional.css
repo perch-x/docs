@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Lobster:400);
 @import url(https://fonts.googleapis.com/css?family=Kaushan+Script:400);
+@import url(https://fonts.googleapis.com/css?family=Courgette:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -22,28 +22,28 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Lobster', display;
+  font-family: 'Kaushan Script', handwriting;
   font-size: 6rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 9.6rem;
 }
 .display-2 {
-  font-family: 'Kaushan Script', handwriting;
+  font-family: 'Courgette', handwriting;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Kaushan Script', handwriting;
+  font-family: 'Courgette', handwriting;
   font-size: 1.4rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 2.24rem;
 }
 .display-5 {
-  font-family: 'Kaushan Script', handwriting;
+  font-family: 'Courgette', handwriting;
   font-size: 1.6rem;
 }
 .display-5 > .mbr-iconfont {
@@ -1905,15 +1905,15 @@ body {
   }
 }
 .cid-qH5HvR1EXc .panel-text {
-  color: #4b351e;
+  color: #634a4a;
 }
 .cid-qH5HvR1EXc H4 {
-  color: #3c2003;
+  color: #634a4a;
   text-align: center;
 }
 .cid-qH4dlats8V {
-  padding-top: 60px;
-  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #634a4a;
 }
 @media (max-width: 767px) {
@@ -3453,7 +3453,7 @@ body {
   background-image: url("../../../assets/images/caffeee-2000x1028.jpg");
 }
 .cid-qGMAdGsw2w {
-  padding-top: 30px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #cebfaf;
 }
@@ -3463,33 +3463,22 @@ body {
 .cid-qGMAdGsw2w H2 {
   color: #634a4a;
 }
-.cid-qGMCwgFYk7 {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-qHap7XyARf {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #cebfaf;
 }
-@media (min-width: 992px) {
-  .cid-qGMCwgFYk7 .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qGMCwgFYk7 .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qGMCwgFYk7 .mbr-text {
-    text-align: center;
-  }
-}
-.cid-qGMCwgFYk7 .mbr-text,
-.cid-qGMCwgFYk7 .mbr-section-btn {
+.cid-qHap7XyARf .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
   color: #634a4a;
 }
-.cid-qGMCwgFYk7 H3 {
-  color: #4b351e;
-  text-align: left;
+.cid-qHap7XyARf .mbr-author-name {
+  font-weight: bold;
+}
+.cid-qHap7XyARf .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
 }
 .cid-qG7VGbMRma .navbar {
   background: #634a4a;
@@ -3881,7 +3870,7 @@ body {
   color: #e1be76 !important;
 }
 .cid-qGH2M8utcY {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #cebfaf;
 }
@@ -3954,7 +3943,7 @@ body {
   transition: 0.2s background ease-in-out;
 }
 .cid-qGMq7WyByG {
-  padding-top: 30px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #cebfaf;
 }
@@ -3964,7 +3953,7 @@ body {
 .cid-qGMq7WyByG H2 {
   color: #634a4a;
 }
-.cid-qGR2dIH3ME {
+.cid-qHasVAZUpd {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #cebfaf;
@@ -4032,7 +4021,7 @@ body {
   transition: 0.2s background ease-in-out;
 }
 .cid-qGHaHHw9mq {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #cebfaf;
 }
@@ -4043,9 +4032,9 @@ body {
   color: #634a4a;
 }
 .cid-qGHa1ZJl5K {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #634a4a;
 }
 @media (max-width: 767px) {
   .cid-qGHa1ZJl5K .content {
@@ -4528,12 +4517,6 @@ body {
 .cid-qH2SitN05R .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
-.cid-qH2SpDFKhx {
-  background-image: url("../../../assets/images/p1094239-1600x1200.jpg");
-}
-.cid-qH2SpDFKhx .mbr-section-subtitle {
-  letter-spacing: .2rem;
-}
 .cid-qH2SqmczVI {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -4542,15 +4525,21 @@ body {
 .cid-qH2SqmczVI .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
+.cid-qH2SpDFKhx {
+  background-image: url("../../../assets/images/p1094239-1600x1200.jpg");
+}
+.cid-qH2SpDFKhx .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
 .cid-qH2SqLbC9D {
   padding-top: 60px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/much-more-1600x583.jpg");
 }
 .cid-qH4duBSmxM {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #634a4a;
 }
 @media (max-width: 767px) {
   .cid-qH4duBSmxM .content {

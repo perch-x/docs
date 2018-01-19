@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster:400);
 @import url(https://fonts.googleapis.com/css?family=Kaushan+Script:400);
-@import url(https://fonts.googleapis.com/css?family=Bitter:400,400i,700);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -44,7 +43,7 @@ body {
   font-size: 2.24rem;
 }
 .display-5 {
-  font-family: 'Bitter', serif;
+  font-family: 'Kaushan Script', handwriting;
   font-size: 1.6rem;
 }
 .display-5 > .mbr-iconfont {
@@ -1367,13 +1366,13 @@ body {
   min-height: 100vh;
 }
 .cid-qG7VGbMRma .navbar {
-  background: #504d4d;
+  background: #634a4a;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qG7VGbMRma .navbar-dropdown.bg-color.transparent.opened {
-  background: #504d4d;
+  background: #634a4a;
 }
 .cid-qG7VGbMRma a {
   font-style: normal;
@@ -1457,7 +1456,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qG7VGbMRma .dropdown .dropdown-menu {
-  background: #504d4d;
+  background: #634a4a;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1915,7 +1914,7 @@ body {
 .cid-qH4dlats8V {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #634a4a;
 }
 @media (max-width: 767px) {
   .cid-qH4dlats8V .content {
@@ -2012,13 +2011,13 @@ body {
   color: #634a4a;
 }
 .cid-qGFRexew23 .navbar {
-  background: #504d4d;
+  background: #634a4a;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qGFRexew23 .navbar-dropdown.bg-color.transparent.opened {
-  background: #504d4d;
+  background: #634a4a;
 }
 .cid-qGFRexew23 a {
   font-style: normal;
@@ -2102,7 +2101,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qGFRexew23 .dropdown .dropdown-menu {
-  background: #504d4d;
+  background: #634a4a;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2468,13 +2467,13 @@ body {
   }
 }
 .cid-qG7VGbMRma .navbar {
-  background: #504d4d;
+  background: #634a4a;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qG7VGbMRma .navbar-dropdown.bg-color.transparent.opened {
-  background: #504d4d;
+  background: #634a4a;
 }
 .cid-qG7VGbMRma a {
   font-style: normal;
@@ -2558,7 +2557,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qG7VGbMRma .dropdown .dropdown-menu {
-  background: #504d4d;
+  background: #634a4a;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3490,13 +3489,13 @@ body {
   text-align: left;
 }
 .cid-qG7VGbMRma .navbar {
-  background: #767676;
+  background: #634a4a;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qG7VGbMRma .navbar-dropdown.bg-color.transparent.opened {
-  background: #767676;
+  background: #634a4a;
 }
 .cid-qG7VGbMRma a {
   font-style: normal;
@@ -3580,7 +3579,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qG7VGbMRma .dropdown .dropdown-menu {
-  background: #767676;
+  background: #634a4a;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -4108,13 +4107,13 @@ body {
   }
 }
 .cid-qG7VGbMRma .navbar {
-  background: #504d4d;
+  background: #634a4a;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qG7VGbMRma .navbar-dropdown.bg-color.transparent.opened {
-  background: #504d4d;
+  background: #634a4a;
 }
 .cid-qG7VGbMRma a {
   font-style: normal;
@@ -4198,7 +4197,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qG7VGbMRma .dropdown .dropdown-menu {
-  background: #504d4d;
+  background: #634a4a;
   display: none;
   position: absolute;
   min-width: 5rem;
